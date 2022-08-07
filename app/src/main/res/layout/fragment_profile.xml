@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragment.ProfileFragment"
+    android:background="@drawable/bg">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="400dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/poppins_bold"
+        android:text="Es Teh Manis"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="24dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"
+        android:textSize="24dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="Anggota"
+        android:fontFamily="@font/poppins_bold"/>
+
+    <LinearLayout
+        android:layout_width="330dp"
+        android:layout_height="550dp"
+        android:orientation="vertical"
+        android:layout_marginTop="15dp"
+        android:layout_gravity="center_horizontal">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:src="@drawable/dila"/>
+                <LinearLayout
+                    android:layout_width="210dp"
+                    android:layout_height="80dp"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="15dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="25dp"
+                        android:fontFamily="@font/poppins_regular"
+                        android:text="Dila Adiliani"
+                        android:textColor="@color/black"
+                        android:textSize="18dp" />
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="25dp"
+                        android:textSize="20dp"
+                        android:textColor="@color/black"
+                        android:text="10119098"
+                        android:fontFamily="@font/poppins_regular"/>
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="25dp"
+                        android:textSize="20dp"
+                        android:textColor="@color/black"
+                        android:text="IF - 3"
+                        android:fontFamily="@font/poppins_regular"/>
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:src="@drawable/maulani"/>
+                <LinearLayout
+                    android:layout_width="210dp"
+                    android:layout_height="80dp"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="15dp">
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="25dp"
+                        android:textSize="20dp"
+                        android:textColor="@color/black"
+                        android:text="Maulani Purwanti"
+                        android:fontFamily="@font/poppins_regular"/>
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="25dp"
+                        android:textSize="20dp"
+                        android:textColor="@color/black"
+                        android:text="10119121"
+                        android:fontFamily="@font/poppins_regular"/>
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="25dp"
+                        android:textSize="20dp"
+                        android:textColor="@color/black"
+                        android:text="IF - 3"
+                        android:fontFamily="@font/poppins_regular"/>
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:src="@drawable/prasetyo"
+                    />
+                <LinearLayout
+                    android:layout_width="210dp"
+                    android:layout_height="80dp"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="15dp">
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="25dp"
+                        android:textSize="18dp"
+                        android:textColor="@color/black"
+                        android:text="Prasetyo Hade M. Winoto"
+                        android:fontFamily="@font/poppins_regular"/>
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="25dp"
+                        android:textSize="20dp"
+                        android:textColor="@color/black"
+                        android:text="10119108"
+                        android:fontFamily="@font/poppins_regular"/>
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="25dp"
+                        android:textSize="20dp"
+                        android:textColor="@color/black"
+                        android:text="IF - 3"
+                        android:fontFamily="@font/poppins_regular"/>
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:src="@drawable/hilman"/>
+                <LinearLayout
+                    android:layout_width="210dp"
+                    android:layout_height="80dp"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="15dp">
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="25dp"
+                        android:textSize="20dp"
+                        android:textColor="@color/black"
+                        android:text="Hilman Ahmad Fathoni"
+                        android:fontFamily="@font/poppins_regular"/>
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="25dp"
+                        android:textSize="20dp"
+                        android:textColor="@color/black"
+                        android:text="10119112"
+                        android:fontFamily="@font/poppins_regular"/>
+                    <TextView
+                        android:layout_width="200dp"
+                        android:layout_height="25dp"
+                        android:textSize="20dp"
+                        android:textColor="@color/black"
+                        android:text="IF - 3"
+                        android:fontFamily="@font/poppins_regular"/>
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </LinearLayout>
+    
+    
+
+</LinearLayout>

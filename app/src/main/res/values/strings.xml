@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RadaR</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="radar_membantu_mencari_wisata_favorit_di_dekatmu">RadaR membantumu mencari tempat wisata favorit di dekatmu</string>
+    <string name="temukan_wisata_terdekat">Temukan Tempat Wisata Terdekat</string>
+    <string name="sesuaikan_jadwal_liburanmu">Sesuaikan Jadwal Liburanmu</string>
+    <string name="radar_membantumu_untuk_melihat_informasi_jadwal_buka_tujuan_tempat_wisatamu">RadaR membantumu untuk melihat informasi jadwal buka tujuan tempat wisatamu</string>
+    <string name="radar_memberimu_informasi_terkait_lokasi_tempat_wisatamu">RadaR memberimu informasi terkait lokasi tempat wisatamu</string>
+    <string name="lacak_lokasi_tempat_wisata">Lacak Lokasi Tempat Wisata</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

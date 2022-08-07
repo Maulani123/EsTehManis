@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "571330844035",
+    "firebase_url": "https://radar-b3b6a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "radar-b3b6a",
+    "storage_bucket": "radar-b3b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571330844035:android:30d5207003acc990be52b6",
+        "android_client_info": {
+          "package_name": "com.d4viddf.bookflight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571330844035-iiprcpq7eel2fgrugubqbkv1m46tclrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1uTbsZHO58H-XOfmK3A3k_VANUgdkNWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571330844035-iiprcpq7eel2fgrugubqbkv1m46tclrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571330844035:android:fcd734686d0884c0be52b6",
+        "android_client_info": {
+          "package_name": "com.sample.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571330844035-iiprcpq7eel2fgrugubqbkv1m46tclrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1uTbsZHO58H-XOfmK3A3k_VANUgdkNWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571330844035-iiprcpq7eel2fgrugubqbkv1m46tclrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571330844035:android:513d2806c206c867be52b6",
+        "android_client_info": {
+          "package_name": "studio.wisata.radar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571330844035-iiprcpq7eel2fgrugubqbkv1m46tclrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1uTbsZHO58H-XOfmK3A3k_VANUgdkNWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571330844035-iiprcpq7eel2fgrugubqbkv1m46tclrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
